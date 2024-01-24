@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [README](README.md)
+* [Algorithm](algorithm/README.md)
+  * [Dynamic Programming](algorithm/dynamic-programming.md)
+  * [Greedy](algorithm/greedy.md)
