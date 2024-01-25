@@ -12,9 +12,5 @@ layout:
     visible: false
 ---
 
-# README
-
-> 제가 배우고 경험한 것을 작성하기 위한 레포지토리입니다.
-
-
+# Spring
 
