@@ -6,6 +6,7 @@
     * [KnapSack Algorithm](algorithm/dynamic-programming/knapsack-algorithm.md)
     * [LCS](algorithm/dynamic-programming/lcs.md)
   * [Greedy](algorithm/greedy.md)
+  * [BackTracking](algorithm/backtracking.md)
 * [Spring](spring/README.md)
   * [Spring MVC](spring/spring-mvc/README.md)
     * [HTTP Request](spring/spring-mvc/http-request.md)
