@@ -18,4 +18,4 @@ layout:
 
 ### [dynamic-programming](dynamic-programming/ "mention")
 
-[greedy.md](greedy.md "mention")
+### [greedy.md](greedy.md "mention")
