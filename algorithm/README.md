@@ -7,10 +7,15 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
 ---
 
 # Algorithm
 
+### [backtracking.md](backtracking.md "mention")
+
+### [dynamic-programming](dynamic-programming/ "mention")
+
+[greedy.md](greedy.md "mention")
