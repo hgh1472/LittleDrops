@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Algorithm](algorithm/README.md)
+  * [Dijkstra](algorithm/dijkstra.md)
   * [Dynamic Programming](algorithm/dynamic-programming/README.md)
     * [KnapSack Algorithm](algorithm/dynamic-programming/knapsack-algorithm.md)
     * [LCS](algorithm/dynamic-programming/lcs.md)
