@@ -13,6 +13,7 @@
     * [패스워드 암호화](spring/spring-security/undefined.md)
     * [Spring Security + JWT 토큰을 통한 로그인](spring/spring-security/spring-security-+-jwt.md)
   * [Spring MVC](spring/spring-mvc/README.md)
+    * [@Builder를 이용한 DTO와 ENTITY 변환](spring/spring-mvc/builder-dto-entity.md)
     * [Controller vs Service](spring/spring-mvc/controller-vs-service.md)
     * [HTTP Request](spring/spring-mvc/http-request.md)
 * [HTTP](http/README.md)
