@@ -8,6 +8,7 @@
     * [LCS](algorithm/dynamic-programming/lcs.md)
   * [Greedy](algorithm/greedy.md)
   * [BackTracking](algorithm/backtracking.md)
+  * [Union-Find](algorithm/union-find.md)
 * [Spring](spring/README.md)
   * [Trouble Shooting](spring/trouble-shooting/README.md)
     * [순환 참조](spring/trouble-shooting/undefined.md)
