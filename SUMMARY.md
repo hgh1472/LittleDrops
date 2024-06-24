@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Algorithm](algorithm/README.md)
+  * [Two Pointer](algorithm/two-pointer.md)
   * [Sieve of Eratosthenes](algorithm/sieve-of-eratosthenes.md)
   * [Dijkstra](algorithm/dijkstra.md)
   * [Dynamic Programming](algorithm/dynamic-programming/README.md)
