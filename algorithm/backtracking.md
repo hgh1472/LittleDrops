@@ -34,7 +34,7 @@ layout:
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="250"><figcaption></figcaption></figure>
 
 루트에서부터 각 레벨별로 숫자 1개씩 뽑아야 하고, 가운데 숫자가 2가 들어가면 안된다는 조건이 있다고 가정해보자. (4-2-1 -> X)
 

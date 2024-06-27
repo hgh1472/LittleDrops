@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Algorithm](algorithm/README.md)
+  * [MST(Minimum Spanning Tree)](algorithm/mst-minimum-spanning-tree.md)
   * [Trie](algorithm/trie.md)
   * [Two Pointer](algorithm/two-pointer.md)
   * [Sieve of Eratosthenes](algorithm/sieve-of-eratosthenes.md)

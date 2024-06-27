@@ -20,7 +20,7 @@ JWT(Json Web Token)은 Json 객체에 인증에 필요한 정보들을 담은 �
 
 ## JWT 프로세스
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### 로그인 전
 
