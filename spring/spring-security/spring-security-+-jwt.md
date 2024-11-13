@@ -18,7 +18,7 @@ layout:
 
 JWT(Json Web Token)은 일반적으로 클라이언트와 서버 통신 시 권한 인가(Authorization)을 위해 사용하는 토큰이다.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Security + JWT 기본 동작 원리</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Security + JWT 기본 동작 원리</p></figcaption></figure>
 
 1. 클라이언트에서 ID/PW를 통해 로그인 요청
 2. 서버에서 DB에 해당 ID/PW를 가진 Member가 있다면, Access Token과 Refresh Token을 발급해준다.
@@ -26,7 +26,7 @@ JWT(Json Web Token)은 일반적으로 클라이언트와 서버 통신 시 권�
 
 Access Token과 Refresh Token은 웹, 앱 애플리케이션에서 **인증 및 권한 부여**를 관리하기 위해 사용되는 토큰이다.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Access Token + Refresh Token 재발급 원리</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Access Token + Refresh Token 재발급 원리</p></figcaption></figure>
 
 #### Access Token
 

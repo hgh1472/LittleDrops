@@ -24,7 +24,7 @@ layout:
 
 하나의 집합에 있는 각 원소들을 같은 집합에 속해있음을 나타내야 한다.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="217"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="217"><figcaption></figcaption></figure>
 
 `Find` 연산은 원소가 속해있는 집합의 루트 노트를 찾는다.
 
@@ -53,7 +53,7 @@ int find(int x) {
 
 `Union` 연산은 두 원소가 속한 집합을 합친다.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="187"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="187"><figcaption></figcaption></figure>
 
 위 상황에서 `Union(5, 2)` 의 경우 5와와 2가 속한 각각의 집합을 하나의 집합으로 합친다.
 
@@ -70,7 +70,7 @@ void union(int x, int y) {
 
 위 이미지에서 `Union(5, 2)` 를 수행하면 다음과 같이 `set` 은 변경된다.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="194"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="194"><figcaption></figcaption></figure>
 
 | 0 | 1 | 2 | 3 | 4 | 5 |
 | - | - | - | - | - | - |

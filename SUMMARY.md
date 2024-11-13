@@ -28,6 +28,8 @@
     * [HTTP Request](spring/spring-mvc/http-request.md)
   * [Spring WebFlux](spring/spring-webflux/README.md)
     * [WebClient](spring/spring-webflux/webclient.md)
+* [Architecture](architecture/README.md)
+  * [DDD](architecture/ddd.md)
 * [Infra](infra/README.md)
   * [배포 전략](infra/undefined.md)
 * [HTTP](http/README.md)
